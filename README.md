@@ -52,8 +52,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Warikrr/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/YosokaHosting/module_yosokahost
+cd ( samain kaya di SC )
 npm install
 ```
 
@@ -66,7 +66,7 @@ yarn
 
 ## Installing
 ```bash
-$ node .
+$ npm start
 ```
 
 ## ❗ Warning
