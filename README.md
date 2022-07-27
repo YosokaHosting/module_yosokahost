@@ -10,9 +10,9 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/a635093499b67c5b0d32e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/YosNesia-07-27" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ARULL OFC</h1>
+<h1 align="center">YosNesia</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -97,8 +97,8 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
 * [`Saweria`](https://saweria.co/yosoka)
-* [ `whatsapp`] ( http://wa.me/6285891634201)
-* [ `whatsapp`] ( http://wa.me/628811575602)
-* [ `Youtube`] ( https://youtube.com/channel/UCWIuEQzEJ30DHtWdb2Omp_A)
-* [ `Lynk`] ( https://lynk.id/yosokanesiaa)
+* [`whatsapp`](http://wa.me/6285891634201)
+* [`whatsapp`](http://wa.me/628811575602)
+* [`Youtube`](https://youtube.com/channel/UCWIuEQzEJ30DHtWdb2Omp_A)
+* [`Lynk`]( https://lynk.id/yosokanesiaa)
 
