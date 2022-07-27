@@ -31,8 +31,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/Warikrr/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/YosokaHosting/module_yosokahost
+cd ( samain kaya di SC namanya )
 npm install
 ```
 
@@ -94,6 +94,11 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+## PESAN :
+MASIH DALAM PELARAN !! APABILA TERJADI EROR / BUG MHN MAFF YOO
+KARNA KAN SAYA HANYA NGERECODE TQ SUPORTNYA YO // APBILA BUG / EROR
+KE OWNER ASLINYA YO MAKASIH
 
 Support Me:
 * [`Saweria`](https://saweria.co/yosoka)
