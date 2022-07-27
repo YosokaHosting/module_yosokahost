@@ -96,4 +96,9 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/arullOfc)
+* [`Saweria`](https://saweria.co/yosoka)
+* [ `whatsapp`] ( http://wa.me/6285891634201)
+* [ `whatsapp`] ( http://wa.me/628811575602)
+* [ `Youtube`] ( https://youtube.com/channel/UCWIuEQzEJ30DHtWdb2Omp_A)
+* [ `Lynk`] ( https://lynk.id/yosokanesiaa)
+
